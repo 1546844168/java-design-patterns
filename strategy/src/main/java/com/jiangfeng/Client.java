@@ -6,8 +6,8 @@ package com.jiangfeng;
  */
 public class Client {
     public static void main(String[] args) {
-        com.jiangfeng.Strategy strategy = new com.jiangfeng.ConcretStratrgyB();
-        com.jiangfeng.Context context = new com.jiangfeng.Context(strategy);
+        Strategy strategy = new ConcretStratrgyB();
+        Context context = new Context(strategy);
         context.contextInterface();
     }
 }

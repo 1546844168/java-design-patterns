@@ -6,9 +6,9 @@ package com.jiangfeng;
  */
 public class Context {
 
-    private com.jiangfeng.Strategy strategy;
+    private Strategy strategy;
 
-    public Context(com.jiangfeng.Strategy strategy) {
+    public Context(Strategy strategy) {
         this.strategy = strategy;
     }
 
