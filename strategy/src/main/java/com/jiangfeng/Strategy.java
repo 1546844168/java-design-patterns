@@ -1,9 +1,5 @@
 package com.jiangfeng;
 
-/**
- * Author: yeyouluo
- * Date: 2018/7/9
- */
 public interface Strategy {
     public void algorithmInterface();
 }
