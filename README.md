@@ -1,4 +1,5 @@
-学习java设计模式
+<<大话设计模式>> java语言版本
+
 
 ### 设计模式分类
         
@@ -30,3 +31,8 @@
     - [责任链模式](https://github.com/1546844168/java-design-patterns/tree/master/responsibility-chain)
     - [中介者模式](https://github.com/1546844168/java-design-patterns/tree/master/mediator)
     - [访问者模式](https://github.com/1546844168/java-design-patterns/tree/master/visitor)
+
+### 设计模式定义
+1. 简单工厂模式：到底要实例化哪一个对象，将来会不会增加实例化的对下个，这是很容易变化的地方，通过一个单独的类来做这个实例化的过程，这就是工厂。
+   
+2. 策略模式：它定义了算法家族，分别封装起来，让他们之间可以相互转换，此模式让算法的变法，不会影响到使用算法的客户
