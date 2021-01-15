@@ -1,4 +1,4 @@
-package com.jiangfeng.simplefactory;
+package com.jiangfeng;
 
 import java.util.Objects;
 

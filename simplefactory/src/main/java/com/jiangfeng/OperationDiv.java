@@ -1,4 +1,4 @@
-package com.jiangfeng.simplefactory;
+package com.jiangfeng;
 
 /**
  * 描述:
