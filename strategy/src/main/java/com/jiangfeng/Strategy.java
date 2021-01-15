@@ -6,7 +6,6 @@ public interface Strategy {
 
 class ConcretStratrgyA implements Strategy {
 
-    @Override
     public void algorithmInterface() {
         System.out.println("策略A的具体实现！");
     }
@@ -14,7 +13,6 @@ class ConcretStratrgyA implements Strategy {
 
 class ConcretStratrgyB implements Strategy {
 
-    @Override
     public void algorithmInterface() {
         System.out.println("策略B的具体实现！");
     }
@@ -22,7 +20,6 @@ class ConcretStratrgyB implements Strategy {
 
 class ConcretStratrgyC implements Strategy {
 
-    @Override
     public void algorithmInterface() {
         System.out.println("策略C的具体实现！");
     }
